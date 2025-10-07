@@ -1,11 +1,13 @@
 import { level0 } from "./levels/level0.js"
 import { level1 } from "./levels/level1.js"
 import { level2 } from "./levels/level2.js"
+import { level3 } from "./levels/level3.js"
 
 const levels = {
   level0: level0,
   level1: level1,
-  level2: level2
+  level2: level2,
+  level3: level3
 };
 
 

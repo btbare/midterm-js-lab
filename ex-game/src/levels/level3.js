@@ -1,11 +1,14 @@
-export const level1 = {
+export const level3 = {
 
     html:`
-    <h3>Level 1</h3>
-    <p>do things to get to level 2</p>
+    <h3>Level 2</h3>
     
     <button class="loser">the right one?</button>
+    <button class="loser">the right one?</button>
+    <button class="loser">the right one?</button>
     <button id="winner">the right one?</button>
+    <button class="loser">the right one?</button>
+    <button class="loser">the right one?</button>
     <button class="loser">the right one?</button>
     <button class="loser">the right one?</button>
     `,
